@@ -1,0 +1,15 @@
+var age = "I am 15 years old";
+console.log(age);
+alert(age);
+var visited = "You have visited this site 14 times";
+console.log(visited);
+alert(visited);
+var brithyear = "My birth year is 1990 <br> Datatype of my declared variable is number";
+console.log(brithyear);
+var customer = "JohnDoe";
+console.log(customer);
+var order = "ordered 5 T-shirts on ";
+console.log(order);
+var website = "www.xyzclothing.com";
+console.log(website);
+document.write(brithyear);
